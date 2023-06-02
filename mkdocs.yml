@@ -5,9 +5,9 @@ site_name: My Docs
 nav:
   - Home: index.md
   - test: architecture.md
-  - test: highlevel.md
-  - test: lowlevel.md
-  - test: wireframe.md 
+  - test1: highlevel.md
+  - test2: lowlevel.md
+  - test3: wireframe.md 
 
 site_author: Yashwanth
 site_description: >-
